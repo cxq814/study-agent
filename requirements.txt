@@ -1,0 +1,11 @@
+# Phase 1: 基础设施
+langgraph>=0.2.0
+redis>=5.0.0
+pydantic>=2.0.0
+
+# Phase 2: RAG + 知识库
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+
+# Phase 3+: 后续阶段增量安装
+# streamlit>=1.30.0
