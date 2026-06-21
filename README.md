@@ -13,6 +13,22 @@
 | 📝 报告生成 | 自动生成综合学业报告并导出 Markdown |
 | 💬 智能问答 | 基于知识库的课程咨询与选课指导 |
 
+## 界面预览
+
+<!-- 截图放 docs/images/ 目录，替换下面的路径 -->
+
+| 主界面 | 辅修推荐 |
+|--------|----------|
+| ![主界面](docs/images/home.png) | ![辅修推荐](docs/images/recommend.png) |
+
+| 课表管理 | 进度追踪 |
+|----------|----------|
+| ![课表管理](docs/images/schedule.png) | ![进度追踪](docs/images/progress.png) |
+
+| 资源推荐 | 学业报告 |
+|----------|----------|
+| ![资源推荐](docs/images/resources.png) | ![学业报告](docs/images/report.png) |
+
 ## 快速开始
 
 ### 环境要求
